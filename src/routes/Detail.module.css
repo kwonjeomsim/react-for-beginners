@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+}
+
+.main__info {
+  margin-left: 40px;
+}
+
+.main__info h2:first-child {
+  font-size: 50px;
+}
+
+.main__info h2:last-child {
+  font-size: 40px;
+}

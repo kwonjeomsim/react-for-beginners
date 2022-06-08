@@ -1,0 +1,34 @@
+.movie {
+  max-width: 200px;
+  color: #1d1d1d;
+  margin-right: 50px;
+}
+
+.movie img {
+  transition: transform 0.5s ease-in-out;
+}
+
+.movie img:hover {
+  transform: scale(1.05);
+}
+
+.movie__title {
+  color: none;
+  text-decoration: dashed;
+  font-weight: bold;
+}
+
+.movie__title a {
+  color: #1d1d1d;
+  text-decoration: none;
+}
+
+.genre__list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.genre {
+  font-size: 12px;
+}
