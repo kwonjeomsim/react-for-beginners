@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-for-beginners/static/css/main.c158e6dc.chunk.css",
-  "main.js": "/react-for-beginners/static/js/main.c0f967b4.chunk.js",
-  "main.js.map": "/react-for-beginners/static/js/main.c0f967b4.chunk.js.map",
-  "static/js/1.df3f6d42.chunk.js": "/react-for-beginners/static/js/1.df3f6d42.chunk.js",
-  "static/js/1.df3f6d42.chunk.js.map": "/react-for-beginners/static/js/1.df3f6d42.chunk.js.map",
+  "main.css": "/react-for-beginners/static/css/main.499ecd02.chunk.css",
+  "main.js": "/react-for-beginners/static/js/main.d9ec6eda.chunk.js",
+  "main.js.map": "/react-for-beginners/static/js/main.d9ec6eda.chunk.js.map",
+  "static/js/1.b34956b5.chunk.js": "/react-for-beginners/static/js/1.b34956b5.chunk.js",
+  "static/js/1.b34956b5.chunk.js.map": "/react-for-beginners/static/js/1.b34956b5.chunk.js.map",
   "runtime~main.js": "/react-for-beginners/static/js/runtime~main.93ab4fdb.js",
   "runtime~main.js.map": "/react-for-beginners/static/js/runtime~main.93ab4fdb.js.map",
-  "static/css/main.c158e6dc.chunk.css.map": "/react-for-beginners/static/css/main.c158e6dc.chunk.css.map",
+  "static/css/main.499ecd02.chunk.css.map": "/react-for-beginners/static/css/main.499ecd02.chunk.css.map",
   "index.html": "/react-for-beginners/index.html",
-  "precache-manifest.43ba4c20037e17a4a1b26bc3f8b4a04b.js": "/react-for-beginners/precache-manifest.43ba4c20037e17a4a1b26bc3f8b4a04b.js",
+  "precache-manifest.d95422a3140efaecbca097f386fdd073.js": "/react-for-beginners/precache-manifest.d95422a3140efaecbca097f386fdd073.js",
   "service-worker.js": "/react-for-beginners/service-worker.js"
 }
