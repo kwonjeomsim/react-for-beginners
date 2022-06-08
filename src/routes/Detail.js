@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import Home from "./Home";
-import "../css/Detail.module.css";
 function Detail() {
   const [movie, setMovie] = useState([]);
   const [loading, setLoading] = useState(true);
